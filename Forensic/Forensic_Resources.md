@@ -3,6 +3,14 @@
 ## ImageForensic
 
 ### [Aperi'Solve](https://aperisolve.fr/)
+
 ### [29a.ch](https://29a.ch/photo-forensics)
+
 ### [StegOnline](https://stegonline.georgeom.net/upload)
+
+## ---
+
+###[Malzilla](http://malzilla.sourceforge.net/downloads.html)  '_PDF dosyalarında sıkıştırılmış zlib dosyalarını bulur ve çıkarır_'
+
+
 
