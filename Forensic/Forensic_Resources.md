@@ -1,16 +1,15 @@
-# Forensic
+# Forensic Resources
 
 ## ImageForensic
 
-### [Aperi'Solve](https://aperisolve.fr/)
+[Aperi'Solve](https://aperisolve.fr/)
 
-### [29a.ch](https://29a.ch/photo-forensics)
+[29a.ch](https://29a.ch/photo-forensics)
 
-### [StegOnline](https://stegonline.georgeom.net/upload)
+[StegOnline](https://stegonline.georgeom.net/upload)
 
-## ---
+##
 
-###[Malzilla](http://malzilla.sourceforge.net/downloads.html)  '_PDF dosyalarında sıkıştırılmış zlib dosyalarını bulur ve çıkarır_'
-
+[Malzilla](http://malzilla.sourceforge.net/downloads.html)  '_PDF dosyalarında sıkıştırılmış zlib dosyalarını bulur ve çıkarır_'
 
 
