@@ -12,7 +12,7 @@
 
 [DuckDuckGo](https://duckduckgo.com)
 
-[Geostimation](https://labs.tib.eu/geoestimation/)"Yapay Zeka ile konum tahmininde bulunan bir uygulama"
+[Geostimation](https://labs.tib.eu/geoestimation/) _"Yapay Zeka ile konum tahmininde bulunan bir uygulama"
 
 #
 
@@ -30,9 +30,7 @@
 [Exif](http://exif.regex.info/exif.cgi)
 
 ## SOCK PUPPET
-[FAKE_NAME_GENERATOR](https://www.fakenamegenerator.com/)
-"Sahte uyumlu künyeler oluşturmak için"
+[FAKE_NAME_GENERATOR](https://www.fakenamegenerator.com/) _"Sahte uyumlu künyeler oluşturmak için"
 
-[ThisPersonDoesntexits](https://this-person-does-not-exist.com/)
-"Reverse image searcha karşı bağışıklı fake fotoğraflar"
+[ThisPersonDoesntexits](https://this-person-does-not-exist.com/) _"Reverse image searcha karşı bağışıklı fake fotoğraflar"
 
