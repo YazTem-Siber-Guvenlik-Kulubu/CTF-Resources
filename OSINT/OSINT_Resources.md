@@ -12,6 +12,8 @@
 
 [DuckDuckGo](https://duckduckgo.com)
 
+[Geostimation](https://labs.tib.eu/geoestimation/)"Yapay Zeka ile konum tahmininde bulunan bir uygulama"
+
 #
 
 **Face Search**
