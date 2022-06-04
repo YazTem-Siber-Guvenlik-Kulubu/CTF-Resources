@@ -10,6 +10,6 @@
 
 ##
 
-[Malzilla](http://malzilla.sourceforge.net/downloads.html)  '_PDF dosyalarında sıkıştırılmış zlib dosyalarını bulur ve çıkarır_'
+[Malzilla](http://malzilla.sourceforge.net/downloads.html) - _'PDF dosyalarında sıkıştırılmış zlib dosyalarını bulur ve çıkarır'_
 
 
