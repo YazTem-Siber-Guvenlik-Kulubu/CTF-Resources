@@ -10,7 +10,8 @@
 
 [Tineye](https://tineye.com/)
 
-[Pimeyes](https://pimeyes.com/en)
+[DuckDuckGo](https://duckduckgo.com)
+
 #
 
 **Face Search**
@@ -18,6 +19,8 @@
 [Microsoft Face](https://azure.microsoft.com/en-au/services/cognitive-services/face/#demo)
 
 [Amazon Face](http://aws.amazon.com/rekognition) 
+
+[Pimeyes](https://pimeyes.com/en)
 #
 
 **MetaData**
