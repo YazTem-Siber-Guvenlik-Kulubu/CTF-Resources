@@ -27,3 +27,9 @@
 
 [Exif](http://exif.regex.info/exif.cgi)
 
+## SOCK PUPPET
+[FAKE_NAME_GENERATOR](https://www.fakenamegenerator.com/)
+"Sahte uyumlu künyeler oluşturmak için"
+[ThisPersonDoesntexits](https://this-person-does-not-exist.com/)
+"Reverse image searcha karşı bağışıklı fake fotoğraflar"
+
